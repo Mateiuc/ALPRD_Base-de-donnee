@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\bin\Debug\testMysql.exe.config
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\bin\Debug\testMysql.exe
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\bin\Debug\testMysql.pdb
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.exe
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.pdb
+d:\documents\visual studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.F_accueil.resources
+D:\Documents\Visual Studio 2015\Projects\testMysql\testMysql\obj\Debug\testMysql.modifier.resources
+D:\Documents\Visual Studio 2015\Projects\testMysql\testMysql\bin\Debug\MySqlBackup.dll
